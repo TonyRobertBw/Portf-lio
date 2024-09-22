@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Site criado em função de uma atividade prática de ADS
 
 Template Name: Impact
 Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
